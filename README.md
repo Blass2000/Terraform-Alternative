@@ -4,7 +4,7 @@ https://github.com/pulumi/pulumi
 
 ![image](https://github.com/Blass2000/Terraform-Alternative/assets/89789502/df24a361-db4e-4c95-b14d-cca7bcad9d62)
 
-erraform has been a popular choice as infrastructure as code (IaC) tool. However the Terraform is far from perfect.
+Terraform has been a popular choice as infrastructure as code (IaC) tool. However the Terraform is far from perfect.
 
 For users new to infrastructure as code or declarative languages, there may be a learning curve associated with understanding Terraform’s HCL and its concepts. Some users find that Terraform’s HCL, while expressive, lacks certain programming features, and the abstraction level might not be as high as desired for complex scenarios.
 

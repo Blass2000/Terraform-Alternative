@@ -30,8 +30,8 @@ Ease of Learning
 Developers familiar with programming languages like JavaScript, TypeScript, Python, etc., may find Pulumi more natural to work with due to its use of general-purpose languages.
 **Right Here**
 
-----> import com.pulumi.pulumi;
-    import com.pulumi.aws.s3.Bucket;
+//import com.pulumi.pulumi;
+import com.pulumi.aws.s3.Bucket;
 
 public class MyS3Bucket extends pulumi.ComponentResource {
     // Constructor for the MyS3Bucket class

@@ -50,7 +50,9 @@ public class MyS3Bucket extends pulumi.ComponentResource {
         this.export("bucketName", bucket.id());
     }
 }
-erraform’s HCL is designed to be relatively easy to read and write, making it accessible to users with minimal programming experience.
+--------------------------------------------------------------------------------
+
+Terraform’s HCL is designed to be relatively easy to read and write, making it accessible to users with minimal programming experience.
 
 Community and Ecosystem
 While Pulumi has a growing community, Terraform has been around for a longer time and has a larger and more established user base. Terraform also has a rich ecosystem of providers that support a wide range of cloud and on-premises services.
